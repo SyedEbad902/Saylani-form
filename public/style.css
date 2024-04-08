@@ -1,0 +1,22 @@
+div{
+
+    border: 1px solid blue ;
+    background-color: chocolate;
+   position:  relative; 
+padding-top: 40px;
+   margin-right: 200px;
+   margin-left: 200px;
+padding-left: 200px;
+   padding-bottom: 30px;
+}
+body{
+font-weight: bold;
+font-size: large;
+text-align: left;
+background-color: antiquewhite;
+
+}
+h1{
+    text-align: center;
+
+}
